@@ -1,6 +1,5 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
 	const CI_VERSION = '3.1.6';
 
 /*
